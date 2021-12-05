@@ -1,0 +1,14 @@
+{
+  "name": "se3316lab5",
+  "version": "1.0.0",
+  "description": "last lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "bingo"
+  },
+  "author": "beingsanjit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
